@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="file" version="1.6" method="upgrade" client="site">
+    <name>Admin Tools - German</name>
+    <author>Hajo Niemann</author>
+    <authorurl>https://hajonie.de</authorurl>
+	<copyright>Copyright (C) 2010-2024 Akeeba Ltd. All rights reserved.</copyright>
+	<license>GNU GPL v3 or later</license>
+    <version>v.1.0.2</version>
+    <creationDate>19.11.2024</creationDate>
+    <description>Deutsche Sprachdateien für Admin Tools für Joomla!</description>
+	<fileset>
+		<files folder="backend" target="administrator/language/de-DE">
+			<filename>com_admintools.ini</filename>
+			<filename>com_admintools.sys.ini</filename>
+			<filename>plg_actionlog_admintools.sys.ini</filename>
+			<filename>plg_actionlog_admintools.ini</filename>
+			<filename>plg_console_admintools.sys.ini</filename>
+			<filename>plg_console_admintools.ini</filename>
+			<filename>plg_system_admintools.sys.ini</filename>
+			<filename>plg_system_admintools.ini</filename>
+			<filename>plg_task_admintools.sys.ini</filename>
+			<filename>plg_task_admintools.ini</filename>
+		</files>
+		<files folder="frontend" target="language/de-DE">
+			<filename>com_admintools.ini</filename>
+			<filename>pkg_admintools.sys.ini</filename>
+		</files>
+	</fileset>
+</extension>
