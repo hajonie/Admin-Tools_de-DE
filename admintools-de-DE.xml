@@ -5,8 +5,8 @@
     <authorurl>https://hajonie.de</authorurl>
 	<copyright>Copyright (C) 2010-2024 Akeeba Ltd. All rights reserved.</copyright>
 	<license>GNU GPL v3 or later</license>
-    <version>v.1.0.2</version>
-    <creationDate>19.11.2024</creationDate>
+    <version>v.1.0.3</version>
+    <creationDate>22.10.2025</creationDate>
     <description>Deutsche Sprachdateien für Admin Tools für Joomla!</description>
 	<fileset>
 		<files folder="backend" target="administrator/language/de-DE">
